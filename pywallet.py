@@ -87,6 +87,7 @@ aversions[0] = 'Bitcoin';
 aversions[48] = 'Litecoin';
 aversions[52] = 'Namecoin';
 aversions[111] = 'Testnet';
+aversion[25] = 'BitCanna';
 
 wallet_dir = ""
 wallet_name = ""
